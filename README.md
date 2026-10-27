@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**Ajorat/ajorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital healthcare specialist with 19+ years experience across NHS primary care and wider health services.
 
-Here are some ideas to get you started:
+My work combines healthcare technology, business analysis, data analysis, and service improvement to identify problems, understand their impact at scale, and deliver practical solutions. I have extensive experience investigating operational and system issues across populations of over one million people, using data to identify data quality issues, quantify impact, and drive improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my data analysis and cloud skills to include Power BI, Azure, SQL, Python.
+
+## Interests
+
+- Digital Healthcare
+- SystmOne Deoloyment, CDK & reporting
+- Data Analytics
+- Business Analysis
+- Service Improvement
+- Automation
+- Problem Solving
+- Microsoft 365
